@@ -1,0 +1,17 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/*.local.json
+# Generated files
+.DS_Store
+__pycache__/
+*.pyc
+bin/
+obj/
+benchmarks/
+
+# Isolated per-answer compilation projects
+examples/.scratch/
