@@ -10,7 +10,7 @@ To execute generated C# examples, separately install the .NET SDK and the Aspose
 
 ## Connect the server
 
-Open `net-copilot-client-agent.code-workspace`. The server is named `words-net`; the custom agent's tool configuration refers to that name, so keep it consistent.
+Open `net-client-copilot-agent.code-workspace`. The server is named `words-net`; the custom agent's tool configuration refers to that name, so keep it consistent.
 
 Replace `https://YOUR_MCP_HOST/YOUR_MCP_ENDPOINT` in `.vscode/mcp.json` with your full endpoint URL. Use the actual URL reported by your deployment; a repository URL or server homepage is not an MCP endpoint. No private address is bundled here.
 

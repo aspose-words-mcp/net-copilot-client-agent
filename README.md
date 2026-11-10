@@ -4,7 +4,7 @@ Use GitHub Copilot Chat to explore Aspose.Words for .NET with answers and C# exa
 
 This repository provides the **Aspose.Words for .NET MCP** custom agent and VS Code client configuration. Deploy the MCP server separately, then connect this client to its HTTP endpoint.
 
-[Browse 99 example answers](showcase.md) · [Setup and troubleshooting](docs/setup.md)
+[Browse 99 example answers](showcase/runs/published-01/showcase.md) · [Run metrics](showcase/runs/published-01/metrics.md) · [Setup and troubleshooting](docs/setup.md)
 
 ## Project family
 
@@ -15,12 +15,12 @@ These repositories work together to provide documentation-backed MCP services an
 | [context-engine](https://github.com/aspose-core-mcp/context-engine) | Shared documentation ingestion, indexing, retrieval, and MCP infrastructure |
 | [net-plugin](https://github.com/aspose-words-mcp/net-plugin) | Aspose.Words for .NET documentation/API extraction and retrieval configuration |
 | [net-server](https://github.com/aspose-words-mcp/net-server) | Deployment helpers that combine pinned engine and plugin versions |
-| [net-copilot-client-agent](https://github.com/aspose-words-mcp/net-copilot-client-agent) **(this repository)** | GitHub Copilot agent, C# compilation checks, and example-answer showcase |
+| [net-client-copilot-agent](https://github.com/aspose-words-mcp/net-client-copilot-agent) **(this repository)** | GitHub Copilot agent, C# compilation checks, and example-answer showcase |
 
 ## Quick start
 
 1. Install and deploy the MCP server using its repository instructions (link above). Obtain its full HTTP MCP endpoint URL and any authentication requirements.
-2. Install VS Code with GitHub Copilot Chat access, and open `net-copilot-client-agent.code-workspace` from this repository.
+2. Install VS Code with GitHub Copilot Chat access, and open `net-client-copilot-agent.code-workspace` from this repository.
 3. Replace `https://YOUR_MCP_HOST/YOUR_MCP_ENDPOINT` in `.vscode/mcp.json` with the full HTTP endpoint URL supplied by your deployment. Run **MCP: List Servers**, select **words-net**, and start it.
 4. If your server requires authentication, complete the configuration described in [setup](docs/setup.md#authentication) before connecting.
 5. Start a new Copilot chat and choose **Aspose.Words for .NET MCP** from the agent picker.
@@ -34,11 +34,12 @@ The agent queries the server for evidence, checks relevant APIs, and cites docum
 - `.github/copilot-instructions.md`: shared evidence and answer guidance.
 - `examples/`: pinned compilation project, build rules, and error-correction examples.
 - `.vscode/mcp.json`: HTTP connection configuration with an endpoint placeholder.
-- `showcase.md`: selected Copilot-generated questions and answers; no benchmark runner or raw session exports are included.
+- `showcase/runs/published-01/`: published questions and answers with their run metrics.
+- `showcase/`: question runner with optional compilation/repair and concise showcase and metrics reports. See [generation instructions](showcase/README.md).
 
 ## Showcase
 
-[Explore the showcase](showcase.md) for document conversion, reporting, editing, and other Aspose.Words tasks. Initial generations use fresh sessions. Each entry identifies the generation model and whether a repair was used.
+[Explore the showcase](showcase/runs/published-01/showcase.md) for document conversion, reporting, editing, and other Aspose.Words tasks. Initial generations use fresh sessions. Each entry identifies the generation model and whether a repair was used. See the [run metrics](showcase/runs/published-01/metrics.md) for compilation outcomes, model usage, repairs, and timing.
 
 ## Contributing
 

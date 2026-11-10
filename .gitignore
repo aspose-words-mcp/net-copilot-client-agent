@@ -15,3 +15,10 @@ benchmarks/
 
 # Isolated per-answer compilation projects
 examples/.scratch/
+
+# Generated runs; retain only the selected published reports
+showcase/runs/*
+!showcase/runs/published-01/
+showcase/runs/published-01/*
+!showcase/runs/published-01/showcase.md
+!showcase/runs/published-01/metrics.md

@@ -1,0 +1,500 @@
+{
+  "description": "99 unique questions extracted from the supplied Codex benchmark report; no answers or acceptance decisions included.",
+  "cases": [
+    {
+      "query_id": "word-to-pdf-01",
+      "group": "word-to-pdf",
+      "question": "How to convert DOC/DOCX to PDF?"
+    },
+    {
+      "query_id": "word-to-pdf-02",
+      "group": "word-to-pdf",
+      "question": "How to convert a document to PDF?"
+    },
+    {
+      "query_id": "word-to-pdf-03",
+      "group": "word-to-pdf",
+      "question": "How to convert DOC/DOCX to PDF in C#?"
+    },
+    {
+      "query_id": "word-to-pdf-04",
+      "group": "word-to-pdf",
+      "question": "How do I convert a DOC/DOCX document to PDF in C#?"
+    },
+    {
+      "query_id": "word-to-html-01",
+      "group": "word-to-html",
+      "question": "How to convert DOC/DOCX to HTML?"
+    },
+    {
+      "query_id": "word-to-html-02",
+      "group": "word-to-html",
+      "question": "How to convert a document to HTML?"
+    },
+    {
+      "query_id": "word-to-html-03",
+      "group": "word-to-html",
+      "question": "How to convert DOC/DOCX to HTML in C#?"
+    },
+    {
+      "query_id": "word-to-html-04",
+      "group": "word-to-html",
+      "question": "How do I convert a DOC/DOCX document to HTML in C#?"
+    },
+    {
+      "query_id": "word-to-excel-01",
+      "group": "word-to-excel",
+      "question": "How to convert DOC/DOCX to Excel?"
+    },
+    {
+      "query_id": "word-to-excel-02",
+      "group": "word-to-excel",
+      "question": "How to convert a Word document to Excel?"
+    },
+    {
+      "query_id": "word-to-excel-03",
+      "group": "word-to-excel",
+      "question": "How to convert DOC/DOCX to XLSX in C#?"
+    },
+    {
+      "query_id": "word-to-excel-04",
+      "group": "word-to-excel",
+      "question": "How do I convert a DOC/DOCX document to Excel in C#?"
+    },
+    {
+      "query_id": "word-to-excel-05",
+      "group": "word-to-excel",
+      "question": "How to convert Word to XLSX in C#?"
+    },
+    {
+      "query_id": "word-to-excel-06",
+      "group": "word-to-excel",
+      "question": "Can Aspose.Words convert DOCX to Excel?"
+    },
+    {
+      "query_id": "word-to-markdown-01",
+      "group": "word-to-markdown",
+      "question": "How to convert DOC/DOCX to Markdown?"
+    },
+    {
+      "query_id": "word-to-markdown-02",
+      "group": "word-to-markdown",
+      "question": "How to convert a Word document to Markdown?"
+    },
+    {
+      "query_id": "word-to-markdown-03",
+      "group": "word-to-markdown",
+      "question": "How to convert DOC/DOCX to Markdown in C#?"
+    },
+    {
+      "query_id": "word-to-markdown-04",
+      "group": "word-to-markdown",
+      "question": "How do I convert a DOC/DOCX document to Markdown in C#?"
+    },
+    {
+      "query_id": "word-to-markdown-05",
+      "group": "word-to-markdown",
+      "question": "How to save a Word document as a Markdown file?"
+    },
+    {
+      "query_id": "word-to-markdown-06",
+      "group": "word-to-markdown",
+      "question": "Can Aspose.Words convert DOCX to Markdown?"
+    },
+    {
+      "query_id": "word-to-image-01",
+      "group": "word-to-image",
+      "question": "How to convert DOC/DOCX to an image?"
+    },
+    {
+      "query_id": "word-to-image-02",
+      "group": "word-to-image",
+      "question": "How to convert a Word document to an image?"
+    },
+    {
+      "query_id": "word-to-image-03",
+      "group": "word-to-image",
+      "question": "How to convert DOC/DOCX to PNG in C#?"
+    },
+    {
+      "query_id": "word-to-image-04",
+      "group": "word-to-image",
+      "question": "How do I convert a DOC/DOCX document to an image in C#?"
+    },
+    {
+      "query_id": "word-to-image-05",
+      "group": "word-to-image",
+      "question": "How to save a Word document as an image?"
+    },
+    {
+      "query_id": "word-to-image-06",
+      "group": "word-to-image",
+      "question": "Can Aspose.Words convert DOCX to JPG or PNG?"
+    },
+    {
+      "query_id": "pdf-to-other-01",
+      "group": "pdf-to-other",
+      "question": "How to convert PDF to other document formats?"
+    },
+    {
+      "query_id": "pdf-to-other-02",
+      "group": "pdf-to-other",
+      "question": "How to convert PDF to DOCX in C#?"
+    },
+    {
+      "query_id": "pdf-to-other-03",
+      "group": "pdf-to-other",
+      "question": "How to convert a PDF document to Word in C#?"
+    },
+    {
+      "query_id": "pdf-to-other-04",
+      "group": "pdf-to-other",
+      "question": "How do I convert PDF to DOC or DOCX using Aspose.Words?"
+    },
+    {
+      "query_id": "pdf-to-other-05",
+      "group": "pdf-to-other",
+      "question": "How to convert PDF to HTML or an image in C#?"
+    },
+    {
+      "query_id": "pdf-to-other-06",
+      "group": "pdf-to-other",
+      "question": "Can Aspose.Words convert PDF to other formats?"
+    },
+    {
+      "query_id": "pdf-to-other-07",
+      "group": "pdf-to-other",
+      "question": "How to load a PDF document with PdfLoadOptions?"
+    },
+    {
+      "query_id": "linq-reporting-01",
+      "group": "linq-reporting",
+      "question": "What is the LINQ Reporting Engine in Aspose.Words?"
+    },
+    {
+      "query_id": "linq-reporting-02",
+      "group": "linq-reporting",
+      "question": "How to generate reports using the LINQ Reporting Engine in C#?"
+    },
+    {
+      "query_id": "linq-reporting-03",
+      "group": "linq-reporting",
+      "question": "How to create a Word document from a LINQ Reporting template and data source using Aspose.Words ReportingEngine in C#?"
+    },
+    {
+      "query_id": "linq-reporting-04",
+      "group": "linq-reporting",
+      "question": "How to populate a LINQ Reporting template with data using Aspose.Words ReportingEngine.BuildReport in C#?"
+    },
+    {
+      "query_id": "linq-reporting-05",
+      "group": "linq-reporting",
+      "question": "How to use LINQ expressions in a Word document template?"
+    },
+    {
+      "query_id": "linq-reporting-06",
+      "group": "linq-reporting",
+      "question": "How to use loops and conditions in LINQ Reporting Engine templates?"
+    },
+    {
+      "query_id": "linq-reporting-07",
+      "group": "linq-reporting",
+      "question": "How to generate reports from JSON or XML data in C#?"
+    },
+    {
+      "query_id": "linq-reporting-08",
+      "group": "linq-reporting",
+      "question": "What is the difference between LINQ Reporting Engine and Mail Merge?"
+    },
+    {
+      "query_id": "mail-merge-01",
+      "group": "mail-merge",
+      "question": "What is Mail Merge in Aspose.Words?"
+    },
+    {
+      "query_id": "mail-merge-02",
+      "group": "mail-merge",
+      "question": "How to perform mail merge in C#?"
+    },
+    {
+      "query_id": "mail-merge-03",
+      "group": "mail-merge",
+      "question": "How to populate a Word template with data using Mail Merge?"
+    },
+    {
+      "query_id": "mail-merge-04",
+      "group": "mail-merge",
+      "question": "How to generate personalized documents from a template?"
+    },
+    {
+      "query_id": "mail-merge-05",
+      "group": "mail-merge",
+      "question": "How to perform mail merge with a data source in C#?"
+    },
+    {
+      "query_id": "mail-merge-06",
+      "group": "mail-merge",
+      "question": "How to use mail merge fields in a Word document?"
+    },
+    {
+      "query_id": "mail-merge-07",
+      "group": "mail-merge",
+      "question": "How to execute mail merge with regions in Aspose.Words?"
+    },
+    {
+      "query_id": "mail-merge-08",
+      "group": "mail-merge",
+      "question": "What is the difference between Mail Merge and LINQ Reporting Engine?"
+    },
+    {
+      "query_id": "compare-01",
+      "group": "compare",
+      "question": "How to compare two Word documents in C#?"
+    },
+    {
+      "query_id": "compare-02",
+      "group": "compare",
+      "question": "How to find differences between DOCX documents using Aspose.Words?"
+    },
+    {
+      "query_id": "compare-03",
+      "group": "compare",
+      "question": "How to compare two documents and identify changes?"
+    },
+    {
+      "query_id": "compare-04",
+      "group": "compare",
+      "question": "How to generate a document that shows differences between two versions?"
+    },
+    {
+      "query_id": "compare-05",
+      "group": "compare",
+      "question": "How to compare Word documents programmatically?"
+    },
+    {
+      "query_id": "compare-06",
+      "group": "compare",
+      "question": "Can Aspose.Words compare documents and mark revisions?"
+    },
+    {
+      "query_id": "compare-07",
+      "group": "compare",
+      "question": "How to compare documents while ignoring formatting changes?"
+    },
+    {
+      "query_id": "split-01",
+      "group": "split",
+      "question": "How to split a Word document into multiple documents in C#?"
+    },
+    {
+      "query_id": "split-02",
+      "group": "split",
+      "question": "How to split a DOCX file by pages using Aspose.Words?"
+    },
+    {
+      "query_id": "split-03",
+      "group": "split",
+      "question": "How to extract each page of a Word document into a separate file?"
+    },
+    {
+      "query_id": "split-04",
+      "group": "split",
+      "question": "How to split a Word document by sections?"
+    },
+    {
+      "query_id": "split-05",
+      "group": "split",
+      "question": "How to split a document by headings or other structural elements?"
+    },
+    {
+      "query_id": "split-06",
+      "group": "split",
+      "question": "How to save each page of a Word document separately?"
+    },
+    {
+      "query_id": "split-07",
+      "group": "split",
+      "question": "How to use DocumentSplitCriteria in Aspose.Words?"
+    },
+    {
+      "query_id": "merge-01",
+      "group": "merge",
+      "question": "How to merge multiple Word documents into one document in C#?"
+    },
+    {
+      "query_id": "merge-02",
+      "group": "merge",
+      "question": "How to combine DOCX files using Aspose.Words?"
+    },
+    {
+      "query_id": "merge-03",
+      "group": "merge",
+      "question": "How to append one Word document to another?"
+    },
+    {
+      "query_id": "merge-04",
+      "group": "merge",
+      "question": "How to insert the contents of one document into another?"
+    },
+    {
+      "query_id": "merge-05",
+      "group": "merge",
+      "question": "How to merge Word documents while preserving formatting?"
+    },
+    {
+      "query_id": "merge-06",
+      "group": "merge",
+      "question": "What is the difference between InsertDocument and AppendDocument?"
+    },
+    {
+      "query_id": "merge-07",
+      "group": "merge",
+      "question": "How to combine several Word documents into a single DOCX file?"
+    },
+    {
+      "query_id": "find-replace-01",
+      "group": "find-replace",
+      "question": "How to find and replace text in a Word document using C#?"
+    },
+    {
+      "query_id": "find-replace-02",
+      "group": "find-replace",
+      "question": "How to replace a string in a DOCX file with Aspose.Words?"
+    },
+    {
+      "query_id": "find-replace-03",
+      "group": "find-replace",
+      "question": "How to replace all occurrences of a word in a document?"
+    },
+    {
+      "query_id": "find-replace-04",
+      "group": "find-replace",
+      "question": "How to find and replace text using regular expressions?"
+    },
+    {
+      "query_id": "find-replace-05",
+      "group": "find-replace",
+      "question": "How to perform a case-insensitive text replacement in Word documents?"
+    },
+    {
+      "query_id": "find-replace-06",
+      "group": "find-replace",
+      "question": "How to replace text while preserving document formatting?"
+    },
+    {
+      "query_id": "find-replace-07",
+      "group": "find-replace",
+      "question": "How to use FindReplaceOptions in Aspose.Words?"
+    },
+    {
+      "query_id": "digital-signatures-01",
+      "group": "digital-signatures",
+      "question": "How to digitally sign a Word document in C#?"
+    },
+    {
+      "query_id": "digital-signatures-02",
+      "group": "digital-signatures",
+      "question": "How to add a digital signature to a DOCX file using Aspose.Words?"
+    },
+    {
+      "query_id": "digital-signatures-03",
+      "group": "digital-signatures",
+      "question": "How to verify digital signatures in a Word document?"
+    },
+    {
+      "query_id": "digital-signatures-04",
+      "group": "digital-signatures",
+      "question": "How to check whether a Word document is digitally signed?"
+    },
+    {
+      "query_id": "digital-signatures-05",
+      "group": "digital-signatures",
+      "question": "How to sign a document with a PFX certificate?"
+    },
+    {
+      "query_id": "digital-signatures-06",
+      "group": "digital-signatures",
+      "question": "How to remove digital signatures from a Word document?"
+    },
+    {
+      "query_id": "digital-signatures-07",
+      "group": "digital-signatures",
+      "question": "How to use DigitalSignatureUtil in Aspose.Words?"
+    },
+    {
+      "query_id": "watermark-01",
+      "group": "watermark",
+      "question": "How to add a watermark to a Word document in C#?"
+    },
+    {
+      "query_id": "watermark-02",
+      "group": "watermark",
+      "question": "How to insert a text watermark into a DOCX file?"
+    },
+    {
+      "query_id": "watermark-03",
+      "group": "watermark",
+      "question": "How to add an image watermark to a Word document?"
+    },
+    {
+      "query_id": "watermark-04",
+      "group": "watermark",
+      "question": "How to remove a watermark from a Word document using Aspose.Words?"
+    },
+    {
+      "query_id": "watermark-05",
+      "group": "watermark",
+      "question": "How to change the font, size, or color of a text watermark?"
+    },
+    {
+      "query_id": "watermark-06",
+      "group": "watermark",
+      "question": "How to add a diagonal watermark to a document?"
+    },
+    {
+      "query_id": "watermark-07",
+      "group": "watermark",
+      "question": "How to use the Watermark class in Aspose.Words?"
+    },
+    {
+      "query_id": "ai-01",
+      "group": "ai",
+      "question": "What AI-powered features are available in Aspose.Words?"
+    },
+    {
+      "query_id": "ai-02",
+      "group": "ai",
+      "question": "How to use AI with Aspose.Words in C#?"
+    },
+    {
+      "query_id": "ai-03",
+      "group": "ai",
+      "question": "How to summarize a document using AI in Aspose.Words?"
+    },
+    {
+      "query_id": "ai-04",
+      "group": "ai",
+      "question": "How to translate a document using AI?"
+    },
+    {
+      "query_id": "ai-05",
+      "group": "ai",
+      "question": "How to use a large language model to process Word documents?"
+    },
+    {
+      "query_id": "ai-06",
+      "group": "ai",
+      "question": "How to integrate Aspose.Words with OpenAI?"
+    },
+    {
+      "query_id": "ai-07",
+      "group": "ai",
+      "question": "How to use AI models to analyze document content?"
+    },
+    {
+      "query_id": "ai-08",
+      "group": "ai",
+      "question": "What classes are available in the Aspose.Words.AI namespace?"
+    }
+  ]
+}
